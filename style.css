@@ -1,0 +1,40 @@
+
+.logo{
+    padding-top: 30px;
+ display: flex;
+ justify-content: space-between;
+
+}
+
+
+.logo-img{
+    padding-left: 100px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 30px;
+}
+
+nav ul{
+    padding-right: 100px;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-penguin{
+
+    background-color:rgb(255 251 240)  ;
+    /* display: flex;
+    justify-content: space-evenly;
+    align-items: center; */
+
+}
+/* 
+.bg-penguin  h1{
+    font-size:3rem ;
+    font-weight: 700;
+
+} */
